@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Void Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-170,
+				-55
+			],
+			"anim": "seethe",
+			"fps": 24,
+			"name": "Void Seethe",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-170,
+				-55
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "wink",
+			"indices": [],
+			"name": "Void Wink"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "Void Down Note Chill",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "Void Up Note Chill",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 26,
+			"name": "Void Right Note Chill",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "Void Left Note Chill",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 26,
+			"name": "Void Right Note Hype",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN-alt",
+			"fps": 20,
+			"name": "Void Down Note Hype",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT-alt",
+			"fps": 20,
+			"name": "Void Left Note Hype",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP-alt",
+			"fps": 20,
+			"name": "Void Up Note Hype",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-170,
+				-55
+			],
+			"anim": "sickintro",
+			"fps": 12,
+			"name": "Void Intro",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/darkcrazed_void_assets",
+	"position": [
+		-330,
+		-80
+	],
+	"healthicon": "darkcrazed-void",
+	"flip_x": false,
+	"healthbar_colors": [
+		116,
+		42,
+		166
+	],
+	"camera_position": [
+		100,
+		110
+	],
+	"sing_duration": 3.9,
+	"scale": 1
+}

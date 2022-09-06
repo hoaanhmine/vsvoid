@@ -1,0 +1,83 @@
+{
+	"song": {
+		"speed": 2.3,
+		"stage": "darkSpace2",
+		"player1": "bf",
+		"player2": "mad-void",
+		"player3": null,
+		"events": [
+			[
+				156923.076923077,
+				[
+					[
+						"Change Character",
+						"1",
+						"hurt-void"
+					]
+				]
+			],
+		  	[
+				156923.076923077,
+				[
+					[
+						"BgBreak"
+					]
+				]
+			],
+			[
+				169384.615384615,
+				[
+					[
+						"Change Character",
+						"1",
+						"Snap B"
+					]
+				]
+			],
+			[
+				169846.153846154,
+				[
+					[
+						"Change Character",
+						"1",
+						"darkcrazed-void"
+					]
+				]
+			],
+			[
+				169846.15384615,
+				[
+					[
+						"DE"
+					]
+				]
+			],
+			[
+				195692.307692308,
+				[
+					[
+						"Change Character",
+						"1",
+						"mad-void"
+					]
+				]
+			],
+			[
+				195692.307692308,
+				[
+					[
+						"RDE"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 130,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Gravity"
+	}
+}

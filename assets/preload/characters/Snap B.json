@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "Pose",
+			"fps": 12,
+			"name": "Void Pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "Wink",
+			"fps": 24,
+			"name": "Void Wink",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Succ"
+		},
+				{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Succ"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Succ"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Succ"
+		},		
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "Defeat",
+			"fps": 12,
+			"name": "Defeat",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "Scream",
+			"fps": 12,
+			"name": "Scream",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "Stunned",
+			"fps": 12,
+			"name": "Stunned",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "Flinch A",
+			"fps": 12,
+			"name": "Flinch A",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "Flinch B",
+			"fps": 12,
+			"name": "Flinch B",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "Snap A",
+			"fps": 20,
+			"name": "Snap A",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "Snap B",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/specialAnim",
+	"position": [
+		-330,
+		-80
+	],
+	"healthicon": "ac-void",
+	"flip_x": false,
+	"healthbar_colors": [
+		116,
+		42,
+		166
+	],
+	"camera_position": [
+		100,
+		110
+	],
+	"sing_duration": 3.9,
+	"scale": 1
+}

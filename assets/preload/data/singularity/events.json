@@ -1,0 +1,57 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "oblivion",
+		"player1": "bf",
+		"player2": "ac-void",
+		"player3": null,
+		"events": [
+			[
+				40800,
+				[
+					[
+						"AC"
+					]
+				]
+			],
+			[
+				175125,
+				[
+					[
+						"Change Character",
+						"1",
+						"Succ"
+					]
+				]
+			],
+			[
+				204000,
+				[
+					[
+						"Change Character",
+						"1",
+						"ac-void"
+					]
+				]
+			],
+			[
+				218500,
+				[
+					[
+						"Change Character",
+						"1",
+						"Defeat"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 200,
+		"arrowSkin": "NOTE_assets_dark",
+		"needsVoices": true,
+		"song": "Singularity"
+	}
+}

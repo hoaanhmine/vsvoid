@@ -1,0 +1,48 @@
+{
+	"storyName": "Ac-Void",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"freeplayColor": [
+		116,
+		32,
+		166
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"ultraviolet",
+			"void",
+			[
+				116,
+				42,
+				166
+			]
+		],
+		[
+			"gravity",
+			"darkcrazed-void",
+			[
+				116,
+				42,
+				166
+			]
+		],
+		[
+			"singularity",
+			"ac-void",
+			[
+				116,
+				42,
+				166
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Ac-Void"
+}

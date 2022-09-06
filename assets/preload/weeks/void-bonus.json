@@ -1,0 +1,39 @@
+{
+	"storyName": "Void-Bonus",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"freeplayColor": [
+		116,
+		42,
+		166
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"security",
+			"accretion",
+			[
+				116,
+				42,
+				166
+			]
+		],
+		[
+			"stardust",
+			"starbreak",
+			[
+				100,
+				100,
+				100
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Void-Bonus"
+}

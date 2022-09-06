@@ -1,0 +1,48 @@
+{
+	"storyName": "Void",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"freeplayColor": [
+		116,
+		42,
+		166
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"asteroids",
+			"void",
+			[
+				116,
+				42,
+				166
+			]
+		],
+		[
+			"weightless",
+			"void",
+			[
+				116,
+				42,
+				166
+			]
+		],
+		[
+			"event-horizon",
+			"void",
+			[
+				116,
+				42,
+				166
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Void"
+}
